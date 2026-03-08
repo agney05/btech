@@ -64,7 +64,14 @@ let people = [
     { name: 'Deva Nanda P', dob: '05/07/2006' },
     { name: 'DEVIKA A S', dob: '07/07/2006' },
     { name: 'DEVIKA A S', dob: '18/06/2006' },
-    { name: 'Eavin John Eapen', dob: '26/12/2005' }
+    { name: 'Eavin John Eapen', dob: '26/12/2005' },
+    { name: 'Anagha Sankar', dob: '01/09/2004' },
+    { name: 'Anamika V', dob: '21/08/2003' },
+    { name: 'Lekshmi R', dob: '02/08/2005' },
+    { name: 'Nikhil A R', dob: '11/06/2003' },
+    { name: 'Prem Edwin Prakash', dob: '26/09/2003' },
+    { name: 'S Mohammed Fazil', dob: '21/03/2005' },
+    { name: 'Vidhu P R Nair', dob: '17/05/2004' }
 ];
 
 // 🔽 EVERYTHING BELOW IS YOUR ORIGINAL CODE — UNCHANGED 🔽
