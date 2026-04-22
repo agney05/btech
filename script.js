@@ -4,7 +4,7 @@ let people = [
     { name: 'AAKASH RAJ S S', dob: '13/10/2006' },
     { name: 'AARON A GEORGE', dob: '10/12/2004' },
     { name: 'Aashin Nazeer', dob: '07/12/2005' },
-    { name: 'ABHIMANYU MAHENDER', dob: '10/05/2006' },
+    { name: 'ABHIMANYU MAHENDER', dob: '01/05/2006' },
     { name: 'ABHIRAG R NAIR', dob: '16/05/2006' },
     { name: 'Abhirami S M', dob: '25/08/2006' },
     { name: 'Abhishek D J', dob: '06/04/2004' },
