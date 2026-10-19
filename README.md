@@ -4,7 +4,7 @@ Birthday list for the B.Tech class, with an automated daily reminder for birthda
 
 ## Set up WhatsApp, SMS, and email reminders
 
-The GitHub Pages site is static, so it cannot send a scheduled message on its own. A GitHub Actions workflow checks the list daily at 05:30 India Standard Time and sends one reminder when there is a birthday the next day. It tries WhatsApp first, then SMS, then email.
+The GitHub Pages site is static, so it cannot send a scheduled message on its own. A GitHub Actions workflow checks the list daily at 6:00 p.m. India Standard Time and sends one reminder when there is a birthday the next day. It tries WhatsApp first, then SMS, then email.
 
 In the repository's **Settings → Secrets and variables → Actions**, add these repository secrets:
 
